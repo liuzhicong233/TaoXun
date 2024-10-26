@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Ground
+  - Platform
+  - Model
+  - View
+  - Ctrl
+  - OldMan
+  - Climber
+  - DieTerrain
+  - Pilot
+  - MysteriousMan
+  - SpaceTip
+  - ClimbWallTip
+  - SprintTip
+  - GlideTip
+  - SaveTip
+  - JumpTwiceTip
+  - Stone
+  - Pinball
+  - FallStone
+  - WindArea
+  - HitStone
+  - TargetStone
+  - Follow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Launch
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Post Pocessing
+  - Player
+  - Mountain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 521707313
+    locked: 0
+  - name: Platform
+    uniqueID: 3778345189
+    locked: 0
+  - name: Object
+    uniqueID: 2183731187
+    locked: 0
+  - name: Player
+    uniqueID: 3066667179
+    locked: 0
+  - name: BackgroundDetails
+    uniqueID: 4141871025
+    locked: 0
